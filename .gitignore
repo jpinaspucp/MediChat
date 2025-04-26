@@ -1,0 +1,7 @@
+"chroma_db/" 
+"venv/" 
+"__pycache__/" 
+".env" 
+"secrets.json" 
+"*_key.txt" 
+"venv/" 
