@@ -1,0 +1,34 @@
+{
+    "Medicina General": {
+      "description": "Médicos generales que pueden tratar una amplia variedad de condiciones",
+      "when_to_see": "Síntomas generales, chequeos anuales, y referencia a especialistas"
+    },
+    "Cardiología": {
+      "description": "Especialistas en enfermedades del corazón y sistema circulatorio",
+      "when_to_see": "Problemas cardíacos, hipertensión, dolor en el pecho"
+    },
+    "Neurología": {
+      "description": "Especialistas en el sistema nervioso",
+      "when_to_see": "Dolores de cabeza crónicos, mareos, problemas de memoria"
+    },
+    "Psiquiatría": {
+      "description": "Especialistas en salud mental",
+      "when_to_see": "Depresión, ansiedad, trastornos del sueño"
+    },
+    "Gastroenterología": {
+      "description": "Especialistas en el sistema digestivo",
+      "when_to_see": "Problemas estomacales, diarrea crónica, reflujo"
+    },
+    "Dermatología": {
+      "description": "Especialistas en piel, cabello y uñas",
+      "when_to_see": "Erupciones, acné, cambios en lunares"
+    },
+    "Oftalmología": {
+      "description": "Especialistas en salud ocular",
+      "when_to_see": "Problemas de visión, dolor ocular, enrojecimiento"
+    },
+    "Otorrinolaringología": {
+      "description": "Especialistas en oído, nariz y garganta",
+      "when_to_see": "Problemas de audición, sinusitis, dolor de garganta frecuente"
+    }
+  }
